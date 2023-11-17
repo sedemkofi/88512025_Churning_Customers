@@ -49,4 +49,5 @@ Acknowledgments
 The model was trained on the "Customer Churn" dataset.
 The application is created by Sedem Amediku.
 
-Link to model test: Model Test.mp4
+Link to model test:
+https://github.com/sedemkofi/88512025_Churning_Customers/blob/1bc925d0d832f5630226600f2fd7e1d2debee656/Model%20Test.mp4
