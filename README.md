@@ -48,3 +48,5 @@ The machine learning model is built using TensorFlow and saved as a .h5 file (mo
 Acknowledgments
 The model was trained on the "Customer Churn" dataset.
 The application is created by Sedem Amediku.
+
+Link to model test: Model Test.mp4
